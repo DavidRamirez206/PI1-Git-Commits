@@ -8,6 +8,10 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             cars.add(new Car(true, i));
         }
+<<<<<<< HEAD
         System.out.println(cars);
+=======
+        System.out.println("Ahh");
+>>>>>>> c2cc9da (add list on main and add cars on for loop)
     }
 }
